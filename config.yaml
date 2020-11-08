@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: FangCodes Community
+title: Hugo Fresh Theme
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
